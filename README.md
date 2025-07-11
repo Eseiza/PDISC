@@ -1,3 +1,3 @@
 # PDISC
-TP: clase6
+TP: Clase4, Clase6
 las clases estan en las ramas.
