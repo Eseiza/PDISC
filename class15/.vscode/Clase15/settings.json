@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Java/javafx-sdk-21.0.9/lib/*.jar"
+  ],
+  "java.errors.incompleteClasspath.severity": "ignore"
+}
